@@ -1,1 +1,7 @@
 This repository is created to store code associated with the Mars Valley Network project. 
+
+Simple_Model.py is the python code of the landscape evolution model used to generate the warm-wet and icy-cold simulations shown in Fig. 3. 
+
+mars_valley_net_statistics.csv includes the data for the histograms shown in Fig. 4 and 5. 
+
+Contact Amanda [dot] v [dot] Steckel [at] gmail.com with questions.
